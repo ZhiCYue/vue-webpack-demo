@@ -1,0 +1,20 @@
+{
+    "retCode":"000000",
+    "retMsg":"成功",
+    "ringList":[
+        {
+            "seq":316181270682449,
+            "name":"中国人寿客户经理",
+            "imgUrl":"http://file.diyring.cc/QiYeDiyRingFile_B2C/baoxian/ringIcon/02zgrskhjl.png?20170609",
+            "ringUrl":"http://file.kuyinyun.com/group3/M00/FD/D6/rBBGrFk9-3OAIRkAAAiLsNUq4gU514.mp3",
+            "title":"中国人寿客户经理"
+        },{
+            "seq":316181182073692,
+            "name":"新华保险客户经理版",
+            "imgUrl":"http://file.diyring.cc/QiYeDiyRingFile_B2C/baoxian/ringIcon/03xhbxkhjlb.png?20170609",
+            "ringUrl":"http://file.kuyinyun.com/group3/M00/FD/D2/rBBGq1k9-12AB4NfAAvIVEMhOc0007.mp3",
+            "title":"新华保险客户经理版"
+        }
+    ],
+    "totalCount":2
+}

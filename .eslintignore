@@ -1,0 +1,8 @@
+dist/
+build/
+config/
+**/*.json
+app/libs/**
+node_modules/
+app/templates/**
+postcss.config.js
